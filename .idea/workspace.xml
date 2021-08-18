@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48210ab1-4739-42fa-802e-d75ef79bb9b7" name="Default Changelist" comment="" />
+    <list default="true" id="48210ab1-4739-42fa-802e-d75ef79bb9b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore~HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,5 +82,9 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.right/-1920.917.1536.832/0.40.1920.1040/-1920.-155.1920.1040@0.40.1920.1040" timestamp="1629286565907" />
+    <state x="664" y="268" key="MultipleFileMergeDialog" timestamp="1629287167131">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="664" y="268" key="MultipleFileMergeDialog/-1920.917.1536.832/0.40.1920.1040/-1920.-155.1920.1040@0.40.1920.1040" timestamp="1629287167131" />
   </component>
 </project>
